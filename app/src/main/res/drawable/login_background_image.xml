@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/image_purple_building" />
+
+    <item>
+        <color android:color="@color/black_50_opacity" />
+    </item>
+
+</layer-list>

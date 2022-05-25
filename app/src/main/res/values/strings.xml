@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Gallery Ax</string>
+
+    <string name="app_description">مجموعه ای از زیباترین عکس های اینترنت که میتونی\nبه عنوان پس زمینه گوشیت ازشون استفاده کنی.</string>
+    <string name="google_button_text">ورود به گالری با حساب گوگل</string>
+    <string name="login_as_guest_normal_section">فقط میخوام یه نگاه بندازم</string>
+    <string name="login_as_guest_strike_section"><u>به عنوان میهمان</u></string>
+
+    <string-array name="section_titles">
+        <item>جدیدترین ها</item>
+        <item>دسته بندی ها</item>
+        <item>برگزیده ها</item>
+    </string-array>
+
+</resources>
